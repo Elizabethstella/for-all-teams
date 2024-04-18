@@ -14,7 +14,7 @@
 
 _UI design_
 
-- [ ] Figma	  https://figma.com/	
+- [X] Figma	  https://figma.com/	
 - [ ] Zeplin	https://zeplin.io/	
 - [ ] Material design	https://material.io/	
 
